@@ -6,15 +6,15 @@
 ### 1.1 常见的数据结构
 - **线性结构**: 线性结构是最简单的数据结构，包括数组、链表，以及由它们衍生出来的栈、队列、哈希表。
 
-  <img src="img/algorithm/linear.jpg" style="zoom:20%;" />
+  <img src="img/linear.jpg" style="zoom:20%;" />
 
 - **树**: 树是相对复杂的数据结构，其中比较有代表性的是二叉树，由它又衍生出了二叉堆之类的数据结构。
 
-  <img src="img/algorithm/tree.jpg" style="zoom:20%;" />
+  <img src="img/tree.jpg" style="zoom:20%;" />
 
 - **图**: 图是更为复杂的数据结构，因为在图中会呈现出多对多的关联关系。
 
-  <img src="img/algorithm/fig.jpg" style="zoom:20%;" />
+  <img src="img/fig.jpg" style="zoom:20%;" />
 
 - **其他数据结构**: 除上述所列的几种基本数据结构以外，还有一些其他的千奇百怪的数据结构。它们由基本数据结构变
   形而来，用于解决某些特定问题，如跳表、哈希链表、位图等。
